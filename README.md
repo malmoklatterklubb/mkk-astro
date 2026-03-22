@@ -1,8 +1,8 @@
-# Malmö Klätterklubb — mkk-astro
+# Malmö Klätterklubb / Astro
 
-The official website for [Malmö Klätterklubb](https://malmoklatterklubb.se), built with [Astro](https://astro.build) and [Sanity](https://sanity.io).
+An experimental new website for [Malmö Klätterklubb](https://malmoklatterklubb.se), built with [Astro](https://astro.build) and [Sanity](https://sanity.io). **We like the idea of moving away from WordPress, and this is how we might do it.**
 
-Content is managed through a companion Sanity Studio project: **mkk-sanity** _(coming soon)_.
+Content is managed through a companion Sanity Studio project: **mkk-sanity** _(coming soon)_. 
 
 ---
 
